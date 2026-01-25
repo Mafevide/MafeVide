@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Maria Eduarda Ferreira Silva, tenho 20 anos e sou natural de São Paula. Concluí o ensino médio no Colégio Sênior. Atualmente, estou cursando Engenharia da Computação na Universidade Santa Cecília. Tenho grande interesse em tecnologia e desenvolvimento de soluções digitais, o que me motivou a escolher Engenharia da Computação como minha área de estudo. Durante minha trajetória acadêmica, tive a oportunidade de participar de projetos práticos, o que me permitiu aplicar meus conhecimentos em programação, lógica de sistemas e resolução de problemas.
+Me chamo Maria Eduarda Ferreira Silva, tenho 20 anos e sou natural de Santos. Concluí o ensino médio no Colégio Sênior. Atualmente, estou cursando Engenharia da Computação na Universidade Santa Cecília. Tenho grande interesse em tecnologia e desenvolvimento de soluções digitais, o que me motivou a escolher Engenharia da Computação como minha área de estudo. Durante minha trajetória acadêmica, tive a oportunidade de participar de projetos práticos, o que me permitiu aplicar meus conhecimentos em programação, lógica de sistemas e resolução de problemas.
 
 Além dos estudos, busco aprimorar minhas habilidades interpessoais e de trabalho em equipe, pois acredito que a colaboração é essencial para alcançar bons resultados. Estou sempre aberta a novos desafios, aprendizados e experiências que me permitam crescer tanto pessoal quanto profissionalmente.
 
