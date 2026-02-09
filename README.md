@@ -63,11 +63,6 @@ Além dos estudos, busco aprimorar minhas habilidades interpessoais e de trabalh
 
 ### 📊 Estatísticas
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MafeVide&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+![Tecnologias](https://github-readme-stats.vercel.app/api/top-langs/?username=MafeVide&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9)
 
 </p>
